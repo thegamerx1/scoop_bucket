@@ -1,0 +1,14 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "version": "1.9",
+    "description": "Firewall App Blocker",
+    "homepage": "https://www.sordum.org/8125/firewall-app-blocker-fab-v1-9/",
+    "license": "Unknown",
+    "shortcuts": [["fab\\Fab_x64.exe", "Firewall App Blocker"]],
+    "url": "https://www.sordum.org/files/download/firewall-app-blocker/fab.zip",
+    "hash": "8b40a0a88b56faeba19a1cda831beebdafeeab2f206ec42c1e80540c384cacbc",
+    "checkver": {
+        "url": "https://www.sordum.org/?s=firewall+app+blocker",
+        "regex": "\\(Fab\\) v(?<version>[\\.\\d]+)"
+    }
+}
