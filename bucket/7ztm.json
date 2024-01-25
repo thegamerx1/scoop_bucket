@@ -1,0 +1,9 @@
+{
+    "version": "2.1.1",
+    "description": "Extract information from password-protected .7z archives.",
+    "homepage": "http://www.7ztm.de/",
+    "url": "https://drive.google.com/uc?export=download&id=1kN1yr2UDl6nO8GZS9Dk5bnBKG2KJk3Oo#/7ztm.7z",
+    "shortcuts": [["7zTM.exe", "7zTM (Theme Changer)"]],
+    "hash": "a6048f849358d1eee91bf1d2722485a2dd4f042c3e63d8646b0f2e7eabd555d5",
+    "bin": "7zTM.exe"
+}
