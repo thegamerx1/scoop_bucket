@@ -1,0 +1,9 @@
+{
+    "version": "2.12",
+    "description": "The bloat-free SDR software",
+    "homepage": "https://github.com/bbuhrow/yafu",
+    "license": "Unlicense",
+    "url": "https://github.com/bbuhrow/yafu/raw/refs/heads/master/yafu-x64-avx2.exe#/yafu.exe",
+    "hash": "8d940cfc4bdefb57e3715e11ad6dedc0cd5fa6dc833ba9f4cb4c04114ecfadc8",
+    "bin": "yafu.exe"
+}
