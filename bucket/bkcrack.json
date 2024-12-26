@@ -1,0 +1,14 @@
+{
+    "version": "1.7.1",
+    "description": "",
+    "homepage": "https://github.com/kimci86/bkcrack",
+    "license": "Unlicense",
+    "url": "https://github.com/kimci86/bkcrack/releases/download/v1.7.1/bkcrack-1.7.1-win64.zip",
+    "extract_dir": "bkcrack-1.7.1-win64",
+    "autoupdate": {
+        "extract_dir": "bkcrack-$version-win64",
+        "url": "https://github.com/kimci86/bkcrack/releases/download/v$version/bkcrack-$version-win64.zip"
+    },
+    "hash": "260551e09fb8dea0a24e849133dcd0c5b18ff11a69ef1f4c00012cbd2255fd2d",
+    "bin": "bkcrack.exe"
+}
